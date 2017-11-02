@@ -1,1 +1,1 @@
-# RSeamus2.github.io
+# rseamus2.github.io
